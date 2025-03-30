@@ -1,0 +1,8 @@
+properties:
+  config:
+    title: Actividad4
+    description: Spring project for ACT4
+    contact: jesustxk
+    url: https://github.com/jesustxk/DWBSC2025/tree/main/acts/act6/act4
+    email: jesustxk@mail
+    version: 0.0.1

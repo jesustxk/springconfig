@@ -1,0 +1,8 @@
+properties:
+  config:
+    title: SpringDataJPA
+    description: Spring Data JPA project for ACT5
+    contact: jesustxk
+    url: https://github.com/jesustxk/DWBSC2025/tree/main/acts/act6/springdatajpa
+    email: jesustxk@mail
+    version: 0.0.2

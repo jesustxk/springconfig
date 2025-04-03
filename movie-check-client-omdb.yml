@@ -1,5 +1,5 @@
 info:
   application:
-  name: OMDB Client
-  description: This application checks if a movie exists using the OMDb API
-  version: 0.0.2
+    name: OMDB Client
+    description: This application checks if a movie exists using the OMDb API
+    version: 0.0.2

@@ -9,7 +9,7 @@ properties:
 
 info:
   application:
-  name: OMDB Client
+  name: Movie Manager
   description: This application inserts a movie into a DB only if the movie is real
   version: '@project.version@'
   swagger: swagger-ui/index.html#/

@@ -1,0 +1,5 @@
+info:
+  application:
+  name: The Movie DB Client
+  description: This application checks a film using The Movie DB API
+  version: 0.0.1

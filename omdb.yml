@@ -1,0 +1,5 @@
+info:
+  application:
+  name: OMDB Client
+  description: This application validates a film using the OMDb API
+  version: 0.0.2

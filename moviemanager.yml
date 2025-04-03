@@ -1,0 +1,5 @@
+info:
+  application:
+  name: Movie Manager
+  description: This application manages movies using Eureka Server to connect to different APIs
+  version: 0.0.1

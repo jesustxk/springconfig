@@ -5,4 +5,12 @@ properties:
     contact: jesustxk
     url: https://github.com/jesustxk/DWBSC2025/tree/main/acts/act7/moviemanager
     email: jesustxk@mail.com
-    version: 0.0.1
+    version: '@project.version@'
+
+info:
+  application:
+  name: OMDB Client
+  description: This application inserts a movie into a DB only if the movie is real
+  version: '@project.version@'
+  swagger: swagger-ui/index.html#/
+  api-docs: v3/api-docs

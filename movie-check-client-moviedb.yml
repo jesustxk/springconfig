@@ -3,3 +3,5 @@ info:
     name: The Movie DB Client
     description: This application checks if a movie exists using The Movie DB API
     version: 0.0.1
+    swagger: swagger-ui/index.html#/
+    api-docs: v3/api-docs

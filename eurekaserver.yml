@@ -1,0 +1,5 @@
+info:
+  application:
+  name: Eureka Server
+  description: This application is an Eureka Server
+  version: 0.0.4

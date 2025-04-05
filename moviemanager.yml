@@ -11,6 +11,6 @@ info:
   application:
     name: Movie Manager
     description: This application inserts a movie into a DB only if the movie is real
-    version: '@project.version@'
+    version: 0.3.0
     swagger: swagger-ui/index.html#/
     api-docs: v3/api-docs

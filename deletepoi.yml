@@ -1,0 +1,16 @@
+properties:
+  config:
+    title: DeletePOI
+    description: REST Service to delete commentaries from POIs for Final project
+    contact: jesustxk
+    url: https://github.com/jesustxk/DWBSC2025/tree/main/final_project/deletepoi
+    email: jesustxk@mail.com
+    version: '@project.version@'
+
+info:
+  application:
+    name: Delete POI
+    description: This application allows the user to delete commentaries from POIs
+    version: 0.1.0
+    swagger: swagger-ui/index.html#/
+    api-docs: v3/api-docs

@@ -1,0 +1,16 @@
+properties:
+  config:
+    title: VerifyPOI
+    description: REST Service to check if POIs exist for Final project
+    contact: jesustxk
+    url: https://github.com/jesustxk/DWBSC2025/tree/main/final_project/verifypoi
+    email: jesustxk@mail.com
+    version: '@project.version@'
+
+info:
+  application:
+    name: Verify POI
+    description: This application allows the user to check if POIs exist
+    version: 0.1.0
+    swagger: swagger-ui/index.html#/
+    api-docs: v3/api-docs

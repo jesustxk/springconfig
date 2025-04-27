@@ -2,4 +2,4 @@ info:
   application:
     name: Final project Gateway
     description: Gateway to call the different REST Services for POIs
-    version: '@project.version@'
+    version: 0.1.0

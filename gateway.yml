@@ -1,8 +1,5 @@
-properties:
-  config:
-    title: Gateway
+info:
+  application:
+    name: Final project Gateway
     description: Gateway to call the different REST Services for POIs
-    contact: jesustxk
-    url: https://github.com/jesustxk/DWBSC2025/tree/main/final_project/verifypoi
-    email: jesustxk@mail.com
     version: '@project.version@'
